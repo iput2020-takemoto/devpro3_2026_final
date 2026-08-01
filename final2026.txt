@@ -53,3 +53,4 @@ minagi-0301,夏休みどうしよう
 iput2026-zaki, awa
 ・・・・2026/08/01 12:00までの提出（Pull Request発行）のもの
 ・・・・2026/08/01 12:24 採点完了byIPUT2020-takemoto
+portichihara, I forgot...
