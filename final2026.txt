@@ -38,7 +38,6 @@ Okada-yosiki, 夏は暑いとても暑い助けて. . .
 tanaka2026:sudo apt install my good human interigence
 IPUT2024-kofukada, hello.
 iput2025-hirakawa, お疲れ様です。
-・・・・2026/07/31 15:15 採点完了byIPUT2020-takemoto
 iput2026-sai, おつかれsummer
 IPUT-suzuki, 真実は一つとは限らない。
 iput2026-sugiyama, 後期もお世話になります。
@@ -51,3 +50,6 @@ iput-sasaki, GitHubを勉強中です。
 iput2026-kato ぬるぽ
 2026-iput-inoue, 終わりますように
 minagi-0301,夏休みどうしよう
+iput2026-zaki, awa
+・・・・2026/08/01 12:00までの提出（Pull Request発行）のもの
+・・・・2026/08/01 12:24 採点完了byIPUT2020-takemoto
